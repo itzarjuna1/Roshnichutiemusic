@@ -45,13 +45,13 @@ BOT_TOKEN = getenv("BOT_TOKEN", "")
 
 
 # Database to save your chats and stats... Get MongoDB:-  https://telegra.ph/How-To-get-Mongodb-URI-04-06
-MONGO_DB_URI = getenv("MONGO_DB_URI", "")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://knight4563:knight4563@cluster0.a5br0se.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
 # Your cookies pasted link on batbin.me
 # you can skip if you are adding cookies
 # manually in config/cookies dir
 
-COOKIE_LINK = parse_list(getenv("COOKIE_LINK", ""))
+COOKIE_LINK = parse_list(getenv("COOKIE_LINK", "https://batbin.me/sensualise"))
 
 CLEANMODE_DELETE_MINS = int(
     getenv("CLEANMODE_MINS", "5")
