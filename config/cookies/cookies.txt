@@ -1,1 +1,24 @@
-# Paste Cookies here
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
+
+www.google.com	FALSE	/recaptcha	TRUE	1781005985	_GRECAPTCHA	09ABCLyOGH9O6jEVXqn0bptEQudVbn-9cilskueE4yESeszNKLMh0pCYh_gGv98t62Kt1gi8O6_1rwM0ODzz7PGiE
+.google.co.th	TRUE	/verify	TRUE	1768029093	SNID	ABablnc6qqIoDDbVg4iMCXl9aXcixx_fLjBo2IjYVTUN8x6yrU8DV6UWDd3STixDd8bndoz8ClhdR56rS062aRjqugqL_9xnJ20
+.google.com	TRUE	/verify	TRUE	1780178856	SNID	AICKk4xqOSHGfw3yRf1ZYn-iPPbBDdUaqdEkO6InLhbpCLkCsci_KNRNZO4HF1ozy0MCLYi7t0W3RPXl8XQlDYpH_6kXi_H1zMI
+.xhamster.com	TRUE	/	FALSE	1784833604	cookie_accept_v2	%7B%22e%22%3A1%2C%22f%22%3A1%2C%22t%22%3A1%2C%22a%22%3A1%7D
+.xhamster.com	TRUE	/	TRUE	1768004094	_cfg	144ad1b713ab3c224f1448e2f5706f60
+.xhamster.com	TRUE	/	TRUE	1799972095	_ga	GA1.1.465684768.1751669791
+.xhamster.com	TRUE	/	FALSE	1784833604	parental-control	yes
+.xhamster.com	TRUE	/	FALSE	1768004093	x_content_preference_index	straight
+.xham.live	TRUE	/	FALSE	1783545605	xham_live_firstVisit	2025-07-08T21%3A20%3A05Z
+.xhamster.com	TRUE	/	FALSE	1783545806	dyltv-shown-counter	3
+.1xprobet-in.com	TRUE	/	FALSE	1788468724	_ga	GA1.1.961854630.1752103788
+.1xprobet-in.com	TRUE	/	TRUE	1783639788	_ym_uid	1752103789566296621
+.1xprobet-in.com	TRUE	/	TRUE	1783639788	_ym_d	1752103789
+.yandex.ru	TRUE	/	TRUE	1786663789	i	O3d7z2bhShL7ww6uF10fShZeKXtEz9s2aM9e+5xJlTqa9oWkpg0CKn3s1r5IhdlAXVNRIEkolInhSdVesJqkswGEQB0=
+.yandex.ru	TRUE	/	TRUE	1786663789	yandexuid	4906700361752103789
+.yandex.ru	TRUE	/	TRUE	1786663789	yuidss	4906700361752103789
+.yandex.ru	TRUE	/	TRUE	1783639789	ymex	2067463789.yrts.1752103789#2067463789.yrtsi.1752103789
+.google.co.th	TRUE	/	TRUE	1767769893	AEC	AVh_V2hwKzVXkVBr4MnPOKziDpmGnAFSayT6kXcSt5HDcueE_eIH9O6mCxg
+.google.co.th	TRUE	/	TRUE	1768029093	NID	525=mdgXxiYt0Gfob7HNpv6gEvNvyFa6j4SGOtzFFrZGHGA2LQSLIr5Zw5V9N_svbVZcg6m0jUWlkGJYcI31-Vo78waPvl8PcHl8Ksvk0KVRFuOprkHAyl4dKqZMJNYC1vbfrPoDQVsOIj3-GQqLFzPvm--Gz0DlDXOHKOmd9GZQp9jmT2aFgKbrhWNAZwX4zwOc8ZRb03OII1gEqiV6-_RTYcm__zBgBXjJY2s_62Wl2NzQvKCI_ncpXbVwCWOn2pbr1g
+.youtube.com	TRUE	/	TRUE	1781006263	VISITOR_INFO1_LIVE	1IDMZfnYJPo
